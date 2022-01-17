@@ -1,4 +1,4 @@
 - 👋 Hi, this project is called Rug Rocket.
-- 👀 The intention of the project is to create an asset on Solana blockchain.
-- 🌱 I’m currently planning the project tokenomic, initial liquidity pools, markets and faceut. 
+- 👀 The intention of the project is to create a token asset on the Solana blockchain.
+- 🌱 I’m currently planning the project tokenomics, initial liquidity pools, markets and faceut. 
 - 📫 How to reach me ... twitter DM @Rug_Rocket
